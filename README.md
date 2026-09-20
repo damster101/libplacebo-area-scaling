@@ -1,2 +1,2 @@
 # libplacebo-area-scaling
-Linear-light area scaling for libplacebo
+https://codefloe.com/damian101/libplacebo-area-scaling
